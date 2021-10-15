@@ -1,9 +1,8 @@
-#AKHAJJAM AHMED 
-#MÈMOIRE DE FIN D’ÉTUDES
-#Pour obtenir le Diplôme de
-#Master “Modélisation et calcul scientifique”
-#Modélisation à l’aide de fonctions splines
-#Application sur la Modélisation des surfaces et volumes
+# -----------AKHAJJAM AHMED------------------------
+#  Modeling using spline functions
+#  Application on the Modeling of surfaces and volumes
+#  Master "Modeling and scientific computing"
+#---------------2020/2021-------------------------
 #import scipy
 import matplotlib.pyplot as plt
 import numpy as np
